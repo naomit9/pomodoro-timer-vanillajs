@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-![Design preview](./images/Screenshot%202023-12-29%20144101.png)
+![Design preview](./Screenshot%202023-12-29%20144101.png)
 
 Building a traditional Pomodoro Timer using Vanilla JavaScript
 
